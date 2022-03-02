@@ -1,16 +1,21 @@
 ### Hi there 👋
 
-<!--
-**CristianSifuentes/CristianSifuentes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### I'm a Full-Stack Developer working in Mexico.
 
-Here are some ideas to get you started:
+##### NOW
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ✨ Currently learning about mathematics, machine learning, deep learning, blockchain;
+- 🌍 Planning the next trip";
+- 💻 throwing code to be able to eat and travel
+
+##### BIO
+
+- 🏢 I'm currently working at **Neoris México**
+- ⚙️ I use daily: `.py`, `.js`, `.html`, `.css`, `.rb`, `.cs`, `.sql`
+- 🌍 I'm mostly active within the **Python Community**
+- 🌱 Learning all about **Open Source**
+- 💬 Ping me about **Machine Learning**, **Deep Learning**, **Blockchain**, **Mathematics**, **Python**, **Javascript**, **Linux**, **Development**
+- 📫 Reach me: [instagram.com/cristian.cova90](https://www.instagram.com/cristian.cova90/)
+- ⚡️ Fun fact: I'm a huge fan of Marvel, Star Wars
+- 🚲 MTB lover
+- 🥑 🍺 🌮 🎮 🎧
