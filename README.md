@@ -5,7 +5,7 @@
 ##### NOW
 
 - ✨ Currently learning about mathematics, machine learning, deep learning, blockchain;
-- 🌍 Planning the next trip";
+- 🌍 Planning the next trip;
 - 💻 throwing code to be able to eat and travel
 
 ##### BIO
