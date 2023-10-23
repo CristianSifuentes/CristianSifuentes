@@ -15,7 +15,7 @@
 - 🌍 I'm mostly active within the **Python Community**
 - 🌱 Learning all about **Open Source**
 - 💬 Ping me about **Machine Learning**, **Deep Learning**, **Blockchain**, **Mathematics**, **Python**, **Javascript**, **Linux**, **Development**
-- 📫 Reach me: [instagram.com/cristian.cova90](https://www.instagram.com/cristian.cova90/)
+- 📫 Reach me: [instagram.com/cristian.cova90](https://www.instagram.com/cristian.cova_/)
 - ⚡️ Fun fact: I'm a huge fan of Marvel, Star Wars
 - 🚲 MTB lover
 - 🥑 🍺 🌮 🎮 🎧
