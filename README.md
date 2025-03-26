@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I'm a Full-Stack Developer working in Mexico.
+#### I'm a DotNet Software Developer working in Mexico.
 
 ##### NOW
 
