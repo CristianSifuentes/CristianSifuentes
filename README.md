@@ -12,7 +12,7 @@
 
 - 🏢 I'm currently working at **Neoris México**
 - ⚙️ I use daily: `.cs`, `.sql`, `.js`, `.ts`, `.css`
-- 🌍 I'm mostly active within the **Python Community**
+- 🌍 I'm mostly active within the **NET Community**
 - 🌱 Learning all about **Open Source**
 - 💬 Ping me about **Machine Learning**, **Deep Learning**, **Blockchain**, **Mathematics**, **Python**, **Javascript**, **Linux**, **Development**
 - 📫 Reach me: [instagram.com/cristian.cova_](https://www.instagram.com/cristian.cova_/)
