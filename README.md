@@ -11,7 +11,7 @@
 ##### BIO
 
 - 🏢 I'm currently working at **Neoris México**
-- ⚙️ I use daily: `.py`, `.js`, `.html`, `.css`, `.rb`, `.cs`, `.sql`
+- ⚙️ I use daily: `.cs`, `.sql`, `.js`, `.ts`, `.css`
 - 🌍 I'm mostly active within the **Python Community**
 - 🌱 Learning all about **Open Source**
 - 💬 Ping me about **Machine Learning**, **Deep Learning**, **Blockchain**, **Mathematics**, **Python**, **Javascript**, **Linux**, **Development**
