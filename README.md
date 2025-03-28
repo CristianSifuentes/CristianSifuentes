@@ -1,17 +1,20 @@
-### Hi there 👋
+### Hello! 👋
 
-#### I'm a .NET Senior Software Engineer working in Mexico.
+#### I'm a Senior .NET Software Engineer based in Mexico.
 
-##### NOW
+##### What I do:
 
-- 💻 Full-stack sorcerer conjuring magic with ⚙️ .NET & 🧪 Microsoft Technologies | 🕸️ Angular artisan by day, dark theme enthusiast by night.
-- 🔧 Git wizard with a love for clean histories, advanced branching, and automation spells. Whether it's a clever rebase or a powerful Git hook, version control is my canvas.
-- 🗃️ Fluent in SQL — from optimizing complex queries to designing normalized (and sometimes denormalized) schemas that scale. Data isn’t just stored; it’s *crafted*.
-- 🧩 Extensions addict. If there's a Visual Studio or VS Code extension that makes dev life smoother, I’ve probably tried it, tweaked it, or written one for fun.
-- 🚀 I build modern, scalable, and beautiful applications — blending backend robustness with frontend finesse. Whether it's crafting APIs with C#, optimizing Azure pipelines, or bringing UI to life with Angular, I’m in my happy place when shipping clean, maintainable code.
-- 🧠 Lifelong learner, obsessed with elegant solutions and geeking out over architecture, design patterns, Git sorcery, and TypeScript tricks. I like my code typed, my tabs spaced, and my commits atomic.
-- 🎯 Currently on a quest to level up in cloud computing, architecture design, and contribute to OSS with my Microsoft-powered toolkit.
-- 📫 Let’s connect, collab, or nerd out about new tech!
+- 💻 Full-stack developer working with .NET technologies and Angular. I enjoy building reliable, maintainable applications from backend APIs to polished UIs.
+- 🔧 Experienced with Git — from clean commit histories to advanced branching strategies and automation workflows. I take pride in version control done right.
+- 🗃️ Proficient in SQL — designing normalized databases, optimizing complex queries, and ensuring scalability.
+- 📦 Skilled in Docker containerization for reproducible environments and smooth deployments.
+- ☁️ Working with Azure DevOps for CI/CD pipelines, release management, and automation — helping teams ship with confidence.
+- 🧪 Familiar with unit testing libraries including NUnit, xUnit, and MSTest. I believe in testable code, and I write tests that are both meaningful and maintainable.
+- 🧠 Strong foundation in Object-Oriented Programming, with deep understanding and hands-on experience applying SOLID principles to produce clean, extensible architectures.
+- 🧩 Always exploring new tools and extensions — if it improves productivity or dev experience, chances are I’ve tried it (or built it myself).
+- 🚀 Passionate about scalable architecture, elegant code, clean patterns, and continuous learning. Whether it’s system design or UI fine-tuning, I’m in my element when solving interesting problems.
 
+##### Now:
 
-
+- 🎯 Currently deepening my knowledge in cloud architecture and contributing to open-source projects.
+- 📫 Open to collaboration, new challenges, or just geeking out over architecture, tools, and good code practices.
