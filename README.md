@@ -4,7 +4,7 @@
 
 ##### What I do:
 
-- 💻 Full-stack developer working with .NET technologies and Angular/React. I enjoy building reliable, maintainable applications from backend APIs to polished UIs.
+- 💻 Full-stack developer integrating AI with .NET technologies and Angular/React. I enjoy building reliable, maintainable applications from backend APIs to polished UIs.
 - 🔧 Experienced with Git — from clean commit histories to advanced branching strategies and automation workflows. I take pride in version control done right.
 - 🗃️ Proficient in SQL — designing normalized databases, optimizing complex queries, and ensuring scalability.
 - 📦 Skilled in Docker containerization for reproducible environments and smooth deployments.
