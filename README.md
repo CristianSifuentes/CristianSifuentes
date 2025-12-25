@@ -1,6 +1,6 @@
 ### Hello! 👋
 
-#### I'm a Senior AI Software Engineer based in Mexico.
+#### I'm a Senior Software Engineer based in Mexico.
 
 ##### What I do:
 
