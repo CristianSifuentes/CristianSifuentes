@@ -11,7 +11,7 @@ This space is where I:
 - Turn complex problems into simple, reliable solutions  
 
 ### What you’ll find here
-- Real-world .NET & cloud projects  
+- Real-world .NET, JS, Python & cloud projects  
 - Architectural experiments and reference implementations  
 - Tools, templates, and developer utilities  
 - Public notes from things I’m actively learning  
