@@ -1,33 +1,26 @@
-### Hello! 👋
+# Hello, I’m Cristian 👋
 
-#### I'm a Senior Software Engineer based in Mexico.
+Senior software engineer building calm, scalable systems.
 
-##### What I do:
+I design and grow production-grade software — APIs, platforms, and tools — with a focus on clarity, longevity, and real-world impact.
 
-- 💻 Full-stack developer integrating AI with .NET technologies and Angular/React/Astro. I enjoy building reliable, maintainable applications from backend APIs to polished UIs.
-- 🔧 Experienced with Git — from clean commit histories to advanced branching strategies and automation workflows. I take pride in version control done right.
-- 🗃️ Proficient in SQL — designing normalized databases, optimizing complex queries, and ensuring scalability.
-- 📦 Skilled in Docker containerization for reproducible environments and smooth deployments.
-- ☁️ Working with Azure DevOps for CI/CD pipelines, release management, and automation — helping teams ship with confidence.
-- 🧪 Familiar with unit testing libraries including NUnit, xUnit, and MSTest. I believe in testable code, and I write tests that are both meaningful and maintainable.
-- 🧠 Strong foundation in Object-Oriented Programming, with deep understanding and hands-on experience applying SOLID principles to produce clean, extensible architectures.
-- 🧩 Always exploring new tools and extensions — if it improves productivity or dev experience, chances are I’ve tried it (or built it myself).
-- 🚀 Passionate about scalable architecture, elegant code, clean patterns, and continuous learning. Whether it’s system design or UI fine-tuning, I’m in my element when solving interesting problems.
+This space is where I:
+- Ship ideas as working products  
+- Explore architecture, AI, and cloud systems  
+- Publish notes, experiments, and technical essays  
+- Turn complex problems into simple, reliable solutions  
 
-##### Popular Topics
+### What you’ll find here
+- Real-world .NET & cloud projects  
+- Architectural experiments and reference implementations  
+- Tools, templates, and developer utilities  
+- Public notes from things I’m actively learning  
 
-![.NET](https://img.shields.io/badge/.NET-blue) 
-![ASP.NET](https://img.shields.io/badge/ASP.NET-lightgrey) 
-![C#](https://img.shields.io/badge/C%23-239120) 
-![Azure](https://img.shields.io/badge/Azure-0089D6) 
-![Blazor](https://img.shields.io/badge/Blazor-512BD4) 
-![.NET Core](https://img.shields.io/badge/.NET_Core-blue) 
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-blue) 
-![.NET MAUI](https://img.shields.io/badge/.NET_MAUI-purple) 
-![.NET Framework](https://img.shields.io/badge/.NET_Framework-5C2D91) 
-![Parallel Programming](https://img.shields.io/badge/.NET_Parallel_Programming-grey)
+I care about:
+**clean architecture, thoughtful abstractions, testable code, and systems that age well.**
 
-##### Now:
+---
 
-- 🎯 Currently deepening my knowledge in cloud architecture and contributing to open-source projects.
-- 📫 Open to collaboration, new challenges, or just geeking out over architecture, tools, and good code practices.
+🌱 Building in public.  
+🛠️ Shipping over theorizing.  
+📚 Learning continuously.
