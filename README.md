@@ -21,6 +21,6 @@ I care about:
 
 ---
 
-🌱 Building in public.  
-🛠️ Shipping over theorizing.  
-📚 Learning continuously.
+Building in public.  
+Shipping over theorizing.  
+Learning continuously.
